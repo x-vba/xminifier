@@ -2,7 +2,7 @@
 
 ## Description
 
-XMinifier is a utility tool used to minify your VBA source code by removing
+[XMinifier](http://x-vba.com/xminifier) is a utility tool used to minify your VBA source code by removing
 excess comments, whitespace, and syntax features that don't have an effect on
 the actual functioning of your code. This can be useful when you want to ship
 your code or include it into a Document, Spreadsheet, or Presentation, as the
